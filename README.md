@@ -29,4 +29,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 <!---LeetCode Topics End-->
