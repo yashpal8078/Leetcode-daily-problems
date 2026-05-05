@@ -40,6 +40,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -62,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
