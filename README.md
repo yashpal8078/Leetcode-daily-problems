@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
+| [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
