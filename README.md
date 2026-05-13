@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -77,6 +79,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
