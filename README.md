@@ -13,6 +13,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -52,6 +53,7 @@
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Tree
