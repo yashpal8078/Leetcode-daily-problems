@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -100,6 +101,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
