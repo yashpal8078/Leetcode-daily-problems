@@ -9,6 +9,7 @@
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0414-third-maximum-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -158,6 +159,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
