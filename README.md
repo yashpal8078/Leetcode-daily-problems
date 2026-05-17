@@ -100,12 +100,14 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -189,4 +192,8 @@
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2427-number-of-common-factors/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 <!---LeetCode Topics End-->
