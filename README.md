@@ -24,6 +24,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
@@ -75,6 +76,7 @@
 | [2427-number-of-common-factors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2544-alternating-digit-sum/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
