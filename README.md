@@ -23,6 +23,7 @@
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -39,6 +40,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
+| [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -77,6 +79,7 @@
 | [2427-number-of-common-factors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -119,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +140,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2427-number-of-common-factors/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
