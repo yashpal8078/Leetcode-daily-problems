@@ -21,6 +21,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -111,6 +112,7 @@
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
