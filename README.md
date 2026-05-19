@@ -20,6 +20,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -42,6 +43,7 @@
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -55,6 +57,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -96,6 +99,7 @@
 | [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
