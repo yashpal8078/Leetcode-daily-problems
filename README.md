@@ -9,6 +9,7 @@
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
 | [0414-third-maximum-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
+| [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
@@ -78,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0048-rotate-image/) | Medium |
+| [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1952-three-divisors/) | Easy |
