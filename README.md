@@ -12,6 +12,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
 | [0414-third-maximum-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
@@ -44,6 +45,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -138,6 +140,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
