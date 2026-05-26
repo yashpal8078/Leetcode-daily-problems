@@ -39,6 +39,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -107,6 +108,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
