@@ -20,6 +20,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -66,6 +67,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -122,6 +124,7 @@
 | ------- | ------- |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## String
@@ -145,6 +148,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
@@ -214,6 +218,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -258,5 +263,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
