@@ -49,6 +49,7 @@
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -83,6 +84,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@
 | [2126-destroying-asteroids](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +254,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
