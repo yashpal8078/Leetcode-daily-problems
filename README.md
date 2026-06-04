@@ -133,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
+| [0443-string-compression](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0443-string-compression/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0443-string-compression](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0443-string-compression/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
