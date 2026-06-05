@@ -97,6 +97,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
