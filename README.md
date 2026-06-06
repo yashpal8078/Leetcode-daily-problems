@@ -35,6 +35,7 @@
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -186,6 +187,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Counting
