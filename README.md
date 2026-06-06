@@ -315,4 +315,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
