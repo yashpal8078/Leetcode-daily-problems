@@ -31,6 +31,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -63,6 +64,7 @@
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -244,6 +246,7 @@
 | [0099-recover-binary-search-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +279,7 @@
 | [0099-recover-binary-search-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
