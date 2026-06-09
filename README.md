@@ -53,6 +53,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -161,6 +162,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
