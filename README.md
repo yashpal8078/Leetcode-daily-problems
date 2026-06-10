@@ -54,6 +54,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -163,6 +164,7 @@
 | [2178-maximum-split-of-positive-even-integers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,4 +329,8 @@
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0177-nth-highest-salary/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
