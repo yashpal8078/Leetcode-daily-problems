@@ -134,6 +134,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -251,6 +252,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +261,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
