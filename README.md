@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0064-minimum-path-sum/) | Medium |
@@ -61,6 +62,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
@@ -106,6 +108,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0064-minimum-path-sum/) | Medium |
@@ -330,6 +333,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0037-sudoku-solver/) | Hard |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 ## Database
 | Problem Name | Difficulty |
