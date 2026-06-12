@@ -51,6 +51,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
@@ -102,6 +103,7 @@
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -140,6 +142,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -260,6 +263,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +273,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +322,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
