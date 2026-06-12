@@ -121,6 +121,7 @@
 | [0048-rotate-image](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0048-rotate-image/) | Medium |
 | [0292-nim-game](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
+| [0412-fizz-buzz](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -171,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0412-fizz-buzz](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0443-string-compression/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -231,6 +233,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0498-diagonal-traverse](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
