@@ -119,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0048-rotate-image/) | Medium |
+| [0292-nim-game](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -340,4 +341,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
