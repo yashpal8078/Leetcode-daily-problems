@@ -18,6 +18,7 @@
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
@@ -280,6 +281,7 @@
 | [0414-third-maximum-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -327,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
+| [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
