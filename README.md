@@ -191,6 +191,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2490-circular-sentence](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2490-circular-sentence/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
