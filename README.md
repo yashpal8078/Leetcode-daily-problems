@@ -159,6 +159,7 @@
 | [0443-string-compression](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0443-string-compression/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -221,6 +222,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
