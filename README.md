@@ -198,6 +198,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
