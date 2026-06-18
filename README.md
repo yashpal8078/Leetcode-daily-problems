@@ -68,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0037-sudoku-solver](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -189,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0412-fizz-buzz](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0443-string-compression/) | Medium |
@@ -360,6 +362,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
