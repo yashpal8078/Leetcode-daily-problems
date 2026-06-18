@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -211,6 +213,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
@@ -351,6 +354,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
