@@ -28,6 +28,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -226,6 +227,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
