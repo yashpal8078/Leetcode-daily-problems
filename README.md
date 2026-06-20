@@ -32,6 +32,7 @@
 | [1732-find-the-highest-altitude](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1840-maximum-building-height](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -146,6 +147,7 @@
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1840-maximum-building-height](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1952-three-divisors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1952-three-divisors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
@@ -319,6 +321,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1840-maximum-building-height](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1859-sorting-the-sentence](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2126-destroying-asteroids](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
