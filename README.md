@@ -299,6 +299,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -339,6 +340,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Combinatorics
@@ -355,9 +357,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bit Manipulation
@@ -375,6 +379,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,4 +421,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
