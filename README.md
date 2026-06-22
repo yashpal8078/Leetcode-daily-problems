@@ -88,6 +88,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -214,6 +215,7 @@
 | [1871-jump-game-vii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2490-circular-sentence](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2490-circular-sentence/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -250,6 +252,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
