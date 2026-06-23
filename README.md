@@ -79,6 +79,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0355-design-twitter](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0355-design-twitter/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -266,6 +267,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
+| [0355-design-twitter](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0355-design-twitter/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -376,10 +378,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0355-design-twitter](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0355-design-twitter](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
