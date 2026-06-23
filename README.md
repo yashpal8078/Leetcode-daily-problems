@@ -24,6 +24,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -83,6 +84,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1345-jump-game-iv](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -193,6 +195,7 @@
 | ------- | ------- |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -335,6 +338,7 @@
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
