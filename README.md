@@ -17,6 +17,7 @@
 | [0498-diagonal-traverse](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
+| [0645-set-mismatch](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -84,6 +85,7 @@
 | [0037-sudoku-solver](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0355-design-twitter](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0355-design-twitter/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -349,6 +351,7 @@
 | [0295-find-median-from-data-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0414-third-maximum-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
+| [0645-set-mismatch](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
@@ -405,6 +408,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Counting Sort
