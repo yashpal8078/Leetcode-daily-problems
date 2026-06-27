@@ -77,6 +77,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3921-score-validator](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3921-score-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3921-score-validator](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3921-score-validator/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +321,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3921-score-validator](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3921-score-validator/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
