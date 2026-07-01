@@ -46,6 +46,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2126-destroying-asteroids](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -280,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
@@ -375,6 +377,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2126-destroying-asteroids](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
