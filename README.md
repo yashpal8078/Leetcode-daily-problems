@@ -169,6 +169,7 @@
 | [0292-nim-game](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -293,6 +294,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
 | [0355-design-twitter](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0355-design-twitter/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -481,6 +483,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
