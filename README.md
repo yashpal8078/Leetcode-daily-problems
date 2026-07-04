@@ -49,6 +49,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -203,6 +204,7 @@
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -321,6 +323,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
