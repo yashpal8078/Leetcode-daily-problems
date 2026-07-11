@@ -24,6 +24,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1051-height-checker/) | Easy |
+| [1089-duplicate-zeros](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -202,6 +203,7 @@
 | [0295-find-median-from-data-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0443-string-compression](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0443-string-compression/) | Medium |
 | [0917-reverse-only-letters](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0917-reverse-only-letters/) | Easy |
+| [1089-duplicate-zeros](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
