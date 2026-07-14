@@ -306,6 +306,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -352,6 +353,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0113-path-sum-ii/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -364,6 +366,7 @@
 | [0099-recover-binary-search-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1306-jump-game-iii/) | Medium |
