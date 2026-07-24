@@ -180,6 +180,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
+| [2235-add-two-integers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2235-add-two-integers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/2544-alternating-digit-sum/) | Easy |
