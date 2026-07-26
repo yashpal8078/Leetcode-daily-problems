@@ -17,6 +17,7 @@
 | [0498-diagonal-traverse](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
@@ -173,6 +174,7 @@
 | [0412-fizz-buzz](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1840-maximum-building-height](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1840-maximum-building-height/) | Hard |
@@ -382,6 +384,7 @@
 | [0295-find-median-from-data-stream](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0414-third-maximum-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
