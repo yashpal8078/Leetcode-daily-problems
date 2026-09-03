@@ -494,6 +494,7 @@
 | [0175-combine-two-tables](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0177-nth-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0577-employee-bonus](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0577-employee-bonus/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1873-calculate-special-bonus/) | Easy |
