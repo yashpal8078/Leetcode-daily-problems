@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
@@ -144,6 +145,7 @@
 | [0044-wildcard-matching](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0063-unique-paths-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0396-rotate-function](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -226,6 +228,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0044-wildcard-matching/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0561-array-partition/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
