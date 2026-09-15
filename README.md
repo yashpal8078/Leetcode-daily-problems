@@ -311,6 +311,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0061-rotate-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0355-design-twitter](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0355-design-twitter/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/yashpal8078/Leetcode-daily-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
